@@ -1,47 +1,16 @@
-# 30  🎉🎉🎉
-
-## BackEnd
-### Nodejs and Express 💥
-- [ ] Installing Nodejs 🚧
-- [ ] Working With Modules  🚧
-- [ ] The Events Module and EventEmitter Class  🚧
-- [ ] Working With The ReadLine Module 🚧
-- [ ] Working With File System Module(Creating,Reading,Deleting,Renaming) Files 🚧
-- [ ] Working With File System Module. Creating and Deleting Folders 🚧
-- [ ] Working With Readable and Writable Streams 🚧
-- [ ] Why you should use Streams 🚧
-- [ ] Pipes and Pipe Chaining. (Readable,Writable and Transform Streams) 🚧
-- [ ] Creating a Http Server using NPM (Node Package Manager) 🚧
-- [ ] Semantic Versioning 🚧
-- [ ] Getting started with Express Web Framwork 🚧
-- [ ] Working with Express Http Get Request, Route Params and Query Strings 🚧
-- [ ] Serving Static Files with Express 🚧
-- [ ] Http Post Request with Express and Body Parser Module 🚧
-- [ ] Working with JSON data with Express and the body Parser Module 🚧
-- [ ] User Input Validation with Express and JOI 🚧
-- [ ] User Input Validation with JOI Validating Nested Object and Arrays 🚧
-- [ ] Getting Started with EJS templates with Express 🚧
-- [ ] How does MiddleWare Work and Creating Custom Middleware 🚧
-- [ ] Working with the Express Router 🚧
-
-### API 🚧
-- [ ] What is an API 
-    : Defining Interface
-    : Defining API
-    : Remote APIS
-    : How the web works
-    : RESTful API Constraint Scavenger Hunt
-- [ ] Exploring APIs
-    : Exploring an API online
-    : Using an API from the command line
-    : Postman
-    : Using Helper Libraries
-- [ ] Using APIs
-    : Create Project
-    : Flask app
-    : Dealing with API Limits
-    : JavaScript Single Page Application
-    : Moar JavaScript and Recap
-    : Review
-
-## FrontEnd 🚧
+># Git Version Control
+|Basic|Intermedite|Expert|
+|:---:|:---------:|:----:|
+|[What is git?](https://youtu.be/RGOj5yH7evk?t=70)|[SSH Keys](https://youtu.be/RGOj5yH7evk?t=70)|----|
+|[What is Version Control?](https://youtu.be/RGOj5yH7evk?t=90)|[git push](https://youtu.be/RGOj5yH7evk?t=70)|----|
+|[Git commmands](https://youtu.be/RGOj5yH7evk?t=70)|[Review workflow](https://youtu.be/RGOj5yH7evk?t=70)|----|
+|[sign up in Github](https://youtu.be/RGOj5yH7evk?t=70)|[Compare between Github workflow and local git](https://youtu.be/RGOj5yH7evk?t=70)|----|
+|[Using git in local machine](https://youtu.be/RGOj5yH7evk?t=70)|[git branching](https://youtu.be/RGOj5yH7evk?t=70)|----|
+|[Git install](https://youtu.be/RGOj5yH7evk?t=70)|[Undoing in git](https://youtu.be/RGOj5yH7evk?t=70)|----|
+|[getting code editor](https://youtu.be/RGOj5yH7evk?t=70)|[Forking in git](https://youtu.be/RGOj5yH7evk?t=70)|----|
+|[inside VS Code](https://youtu.be/RGOj5yH7evk?t=70)|---------|----|
+|[cloning through VS Code](https://youtu.be/RGOj5yH7evk?t=70)|---------|----|
+|[git commit command](https://youtu.be/RGOj5yH7evk?t=70)|---------|----|
+|[git add command](https://youtu.be/RGOj5yH7evk?t=70)|---------|----|
+|[committing](https://youtu.be/RGOj5yH7evk?t=70)|---------|----|
+|[git push command](https://youtu.be/RGOj5yH7evk?t=70)|---------|----|
