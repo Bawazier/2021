@@ -75,6 +75,11 @@ header > h1{
 .choice:hover{
     background-color: #242424;
     cursor: pointer;
+    /* transform: scale(1.1); */
+}
+
+img:hover{
+    transform: scale(1.1);
 }
 
 #action-massage{
