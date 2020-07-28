@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-npm",
+  "version": "1.0.0",
+  "description": "Tutorial Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node index.js"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Bawazier",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
