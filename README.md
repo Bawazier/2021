@@ -1,7 +1,7 @@
 # TODO
 
-* [ ] Internet
-  * [ ] How does the internet work?
+* [x] Internet
+  * [x] How does the internet work?
   * [ ] What is HTTP?
   * [ ] Browsers and how they work?
   * [ ] DNS and how it work?
@@ -22,41 +22,41 @@
     > stdin, stdout, stderr, pipes
   * [ ] Bascis Networking Concepts
   
-* [ ] HTML
-  * [ ] Learn the basics
-  * [ ] Forms and validations
-  * [ ] Conventions and best practices
-* [ ] CSS
-  * [ ] Learn the basics
-  * [ ] Making layout
-    - [ ] Floats
-    - [ ] Positioning    
-    - [ ] Display    
-    - [ ] Box Model
-    - [ ] CSS grid    
-    - [ ] Flexbox    
+* [x] HTML
+  * [x] Learn the basics
+  * [x] Forms and validations
+  * [x] Conventions and best practices
+* [x] CSS
+  * [x] Learn the basics
+  * [x] Making layout
+    - [x] Floats
+    - [x] Positioning    
+    - [x] Display    
+    - [x] Box Model
+    - [x] CSS grid    
+    - [x] Flexbox    
   * [ ] Responsive design and Media queries
-* [ ] JavaScript
-  * [ ] Syntax and Basics Constructs
+* [x] JavaScript
+  * [x] Syntax and Basics Constructs
   * [ ] Learn DOM Manipulation
   * [ ] Learn Fetch API / Ajax(XHR)
-  * [ ] ES6+ and Modular JavaScript
+  * [x] ES6+ and Modular JavaScript
   * [ ] Understand the concepts
     > Hoisting, Event Bubbling, Scope,
     > Prototype, Shadow DOM, Strict
   * [ ] Nodejs
     > 
-* [ ] Vesion Control Systems
-  * [ ] Basic usage of git
-  * [ ] Repo hosting services
-    * [ ] Github
+* [x] Vesion Control Systems
+  * [x] Basic usage of git
+  * [x] Repo hosting services
+    * [x] Github
     * [ ] Gitlab
-* [ ] Package Manager
-  * [ ] NPM
+* [x] Package Manager
+  * [x] NPM
   * [ ] YARN
-* [ ] Nodejs
-  * [ ] Learn the basics
-  * [ ] NPM usage
-  * [ ] Module usage
+* [x] Nodejs
+  * [x] Learn the basics
+  * [x] NPM usage
+  * [x] Module usage
     > http, url, fs, 
    
