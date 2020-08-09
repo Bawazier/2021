@@ -7,8 +7,8 @@
   * [ ] DNS and how it work?
   * [ ] What is domain name?
   * [ ] What is hosting?
-* [ ] OS and General Knowledge
-  * [ ] Terminal usage
+* [x] OS and General Knowledge
+  * [x] Terminal usage
   * [ ] How OSs work in general
   * [ ] Process Management
   * [ ] Threads and Concurrency
