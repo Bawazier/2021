@@ -2,11 +2,11 @@
 
 * [x] Internet
   * [x] How does the internet work?
-  * [ ] What is HTTP?
-  * [ ] Browsers and how they work?
-  * [ ] DNS and how it work?
-  * [ ] What is domain name?
-  * [ ] What is hosting?
+  * [x] What is HTTP?
+  * [x] Browsers and how they work?
+  * [x] DNS and how it work?
+  * [x] What is domain name?
+  * [x] What is hosting?
 * [x] OS and General Knowledge
   * [x] Terminal usage
   * [ ] How OSs work in general
